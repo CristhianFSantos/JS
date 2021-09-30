@@ -3,7 +3,7 @@ Coding Kata
 </h1>
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/CristhianFSantos/Coding_Kata/main/js.png" alt="App" height="400">
+<img src="https://raw.githubusercontent.com/CristhianFSantos/JS/master/js.png" alt="App" height="400">
 <br>
 </h1>
 
